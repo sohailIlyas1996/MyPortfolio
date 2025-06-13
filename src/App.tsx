@@ -6,7 +6,7 @@ function App() {
     {
       title: "Prayer Times App",
       description: "A Mobile application built with React native",
-      image: "/src/assets/images/prayerapp.png",
+      image: "/images/prayerapp.png",
       technologies: ["React Native", "Expo", "TypeScript", "Tailwind CSS"],
       github: "https://github.com/sohaililyas/Prayer-Times-App",
       live: "https://play.google.com/store/apps/details?id=com.sohaililyas.prayertimes",
@@ -14,14 +14,14 @@ function App() {
     {
       title: "Genius Shield",
       description: "A web application built with Next.js and Tailwind CSS",
-      image: "/src/assets/images/genuineshield.png",
+      image: "/images/genuineshield.png",
       technologies: ["Next.js", "Tailwind CSS", "Framer Motion"],
       live: "https://geniun-g6g717zlt-sohaililyas1996s-projects.vercel.app/",
     },
     {
       title: "Movie App",
       description: "A web application built with React.js and Tailwind CSS",
-      image: "/src/assets/images/movie.png",
+      image: "/images/movie.png",
       technologies: ["React", "API", "TypeScript", "Firebase"],
       live: "https://tm-asusvvdi7-sohaililyas1996s-projects.vercel.app/",
     },
@@ -78,7 +78,7 @@ function App() {
               <div className="w-48 h-48 mx-auto mb-8 rounded-full overflow-hidden border-4 border-[#00B4DB] shadow-lg relative">
                 <div className="absolute inset-0 bg-gradient-to-br from-[#00B4DB] to-[#0099BC] opacity-20"></div>
                 <img
-                  src="/src/assets/images/mypic.jpeg"
+                  src="/images/mypic.jpeg"
                   alt="Sohail Ilyas"
                   className="w-full h-full object-cover"
                 />
