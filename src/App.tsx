@@ -4,14 +4,6 @@ import { FaGithub, FaLinkedin, FaExternalLinkAlt } from "react-icons/fa";
 function App() {
   const projects = [
     {
-      title: "M.O.T and Repair",
-      description: "A web application built with React.js and Tailwind CSS",
-
-      image: "/src/assets/images/mot.png",
-      technologies: ["React", "Tailwind CSS", "TypeScript", "Firebase"],
-      live: "https://highfield.netlify.app/",
-    },
-    {
       title: "Genuine Shield",
       description: "A web application built with Next.js and Tailwind CSS",
       image: "/images/genuineshield.png",
@@ -24,6 +16,14 @@ function App() {
       image: "/images/movie.png",
       technologies: ["React", "API", "TypeScript", "Firebase"],
       live: "https://tm-asusvvdi7-sohaililyas1996s-projects.vercel.app/",
+    },
+    {
+      title: "M.O.T and Repair",
+      description: "A web application built with React.js and Tailwind CSS",
+
+      image: "/images/Repair.png",
+      technologies: ["React", "Tailwind CSS", "TypeScript", "Firebase"],
+      live: "https://highfield.netlify.app/",
     },
   ];
 
