@@ -16,7 +16,7 @@ function App() {
       description: "A web application built with Next.js and Tailwind CSS",
       image: "/images/genuineshield.png",
       technologies: ["Next.js", "Tailwind CSS", "Framer Motion"],
-      live: "https://geniun-g6g717zlt-sohaililyas1996s-projects.vercel.app/",
+      live: "https://www.genuineshield.com/",
     },
     {
       title: "Movie App",
