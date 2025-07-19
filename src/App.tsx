@@ -4,15 +4,16 @@ import { FaGithub, FaLinkedin, FaExternalLinkAlt } from "react-icons/fa";
 function App() {
   const projects = [
     {
-      title: "Prayer Times App",
-      description: "A Mobile application built with React native",
-      image: "/images/prayerapp.png",
+      title: "M.O.T and Repair",
+      description: "A web application built with React.js and Tailwind CSS",
+
+      image: "/images/mot.png",
       technologies: ["React Native", "Expo", "TypeScript", "Tailwind CSS"],
-      github: "https://github.com/sohaililyas/Prayer-Times-App",
-      live: "https://play.google.com/store/apps/details?id=com.sohaililyas.prayertimes",
+
+      live: "https://highfield.netlify.app/",
     },
     {
-      title: "Genius Shield",
+      title: "Genuine Shield",
       description: "A web application built with Next.js and Tailwind CSS",
       image: "/images/genuineshield.png",
       technologies: ["Next.js", "Tailwind CSS", "Framer Motion"],
