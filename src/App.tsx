@@ -7,8 +7,8 @@ function App() {
       title: "M.O.T and Repair",
       description: "A web application built with React.js and Tailwind CSS",
 
-      image: "/src/assets/images/mot.png",
-      technologies: ["React Native", "Expo", "TypeScript", "Tailwind CSS"],
+      image: "/images/mot.png",
+      technologies: ["React", "Tailwind CSS", "TypeScript", "Firebase"],
 
       live: "https://highfield.netlify.app/",
     },
